@@ -8,7 +8,7 @@ This portfolio showcases:
 - My projects.
 - How to contact me.
 
-You can view the live website here: [https://imteyaz.github.io/](https://imteyaz.github.io/) (Update this link after hosting).
+You can view the live website here: [https://imteyazm745.github.io/Portfolio/) (Update this link after hosting).
 
 ---
 
